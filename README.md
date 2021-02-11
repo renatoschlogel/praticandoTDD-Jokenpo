@@ -3,8 +3,6 @@ Resolvendo o desafio do Juiz de Jokenpo utilizando TDD
 
 
 ## Jokenpo
-Você está resolvendo este problema.
-Este problema foi utilizado em 1365 Dojo(s).
 
 Jokenpo é uma brincadeira japonesa, onde dois jogadores escolhem um dentre três possíveis itens: Pedra, Papel ou Tesoura.
 
